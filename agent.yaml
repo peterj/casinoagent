@@ -1,11 +1,11 @@
 agentName: casinoagent
-image: pj3677/casino:latest
+image: pj3677/casinoagent:latest
 language: python
 framework: adk
 modelProvider: gemini
 modelName: gemini-2.0-flash
 description: ""
-telemetryEndpoint: http://solo-enterprise-telemetry-gateway.kagent:4318/v1/traces
+telemetryEndpoint: http://6a9302a1ddec.ngrok-free.app/v1/traces
 mcpServers:
     - type: registry
       name: echo-mcp-server
