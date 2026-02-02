@@ -1,5 +1,5 @@
 agentName: casinoagent
-image: pj3677/casinoagent:latest
+image: pj3677/casinoagent:0.0.1
 language: python
 framework: adk
 modelProvider: gemini
