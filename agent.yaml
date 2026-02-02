@@ -7,7 +7,7 @@ modelName: gemini-2.0-flash
 description: ""
 mcpServers:
     - type: registry
-      name: echo-mcp-server
+      name: user-my-mcp-server 
       env:
         - MCP_TRANSPORT_MODE=http
         - HOST=0.0.0.0
